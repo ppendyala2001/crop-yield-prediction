@@ -49,6 +49,4 @@ Regression Model
 -------
 ![Alt text](https://github.com/mrmohim/Crop-Yield-Prediction-System-using-Machine-Learning-Technique/blob/master/Regression%20Model%20Chart.png "Screenshot")
 
-Note
--------
-**IF YOU FIND ANY SEVERE BUGS PLEASE KINDLY [PULL REQUEST](https://github.com/mrmohim/Crop-Yield-Prediction-System-using-Machine-Learning-Technique/pulls).**
+
