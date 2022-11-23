@@ -1,3 +1,6 @@
+%{
+   input file
+%}
 clc
 clear all;
 close all;
